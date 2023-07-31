@@ -23,9 +23,6 @@ Por lo que las principales tecnologías que manejo son:
 - **GIT**
 - **HTML** y **CSS**
 
-Entre otras herramientas, también tengo conocimiento en **Photoshop**, **Illustrator** y **Figma** para el 
-diseño visual de material
-
 
 ### No dudes en contactarme! 
 
